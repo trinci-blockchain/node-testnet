@@ -11,3 +11,19 @@ trinci@node:~$ ./install.sh
 ```console
 trinci@node:~$ ./start.sh
 ```
+
+# How to use CLI for handle NODE
+
+https://github.com/affidaty-blockchain/trinci-cli
+
+# How create Smart Contract in RUST
+
+https://github.com/affidaty-blockchain/trinci-sdk-rust
+
+# How create Smart Contract in AssemblyScript
+
+https://github.com/affidaty-blockchain/trinci-sdk-assemblyscript
+
+# Other stuffs
+
+https://github.com/affidaty-blockchain/
