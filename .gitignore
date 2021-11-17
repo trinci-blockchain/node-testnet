@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!install.sh
+!start.sh
+!update.sh
+!README.md
+
+!./bin/install.sh
+!./bin/start.sh
+!./bin/update.sh
